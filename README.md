@@ -1,7 +1,10 @@
 ## Oiii eu sou Pedro Paulo Cantalice!
 
-Pessoal que veio atrás do **Github Stats:** a API provavelmente saiu do ar nesse período,
-mas você pode adicionar a sua própria, seguindo esse [tutorial](https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md#deploy-on-your-own-vercel-instance)
+<div>
+	<a href="https://beacons.ai/PedroTsI">
+	<img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroTsI&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  	<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroTsI&&layout=compact&langs_count=16&theme=dracula"/>
+<div>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Pedro-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -24,3 +27,6 @@ mas você pode adicionar a sua própria, seguindo esse [tutorial](https://github
   </a> 
   
 </div>
+
+![Snake animation](https://github.com/PedroTsI/PedroTsI/blob/output/github-contribution-grid-snake.svg)
+
