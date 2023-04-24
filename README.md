@@ -1,5 +1,10 @@
 ## Olá, eu sou Pedro Paulo Cantalice!
 
+<div>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroTsI&show_icons=true&count_private=true&hide_border=false&title_color=810CA8&icon_color=791a78&text_color=c9d1d9&bg_color=282a36" alt="Maria Rita github stats" /> 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroTsI&layout=compact&hide_border=false&title_color=810CA8&text_color=c9d1d9&bg_color=282a36" />
+</div>
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Pedro-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Pedro-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
