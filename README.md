@@ -15,6 +15,12 @@
   <img align="center" alt="Pedro-Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
   <img align="center" alt="Pedro-Flask" height="30" width="40" src="https://devicons.railway.app/i/flask-light.svg"/>
   <img align="center" alt="Pedro-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  <img align="center" alt="Pedro-GitLab" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" />
+  <img align="center" alt="Pedro-Slack" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" />
+  <img align="center" alt="Pedro-Git" height="30" width="30" src="https://img.icons8.com/ios-glyphs/30/FFFFFF/github.png" />
+  
+          
+           
           
 </div>
   
